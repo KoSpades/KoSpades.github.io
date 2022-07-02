@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Steven Xia's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, this is Steven Xia! I am a first year CS PhD student at the University of Chicago,
-advised by Prof. Raul Castro Fernandez.
+advised by Prof. [Raul Castro Fernandez] (https://raulcastrofernandez.com/).
 
 
 Site-wide configuration
