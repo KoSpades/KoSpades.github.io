@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, this is Steven Xia! I am a first year CS PhD student at the University of Chicago,
-advised by Prof. [Raul Castro Fernandez] (https://raulcastrofernandez.com/).
+advised by Prof. [Raul Castro Fernandez](https://raulcastrofernandez.com/).
 
 
 Site-wide configuration
