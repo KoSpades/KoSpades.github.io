@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Steven.
+Hi, this is Steven Xia.
 
 Welcome to my home page.
 
