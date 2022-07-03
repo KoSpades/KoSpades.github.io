@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 Hi, this is Steven Xia! I am a first year CS PhD student at the University of Chicago,
-advised by Prof. [Raul Castro Fernandez](https://raulcastrofernandez.com/).
+advised by Prof. [Raul Castro Fernandez](https://raulcastrofernandez.com/). Before coming to
+UChicago, I got my Bachelors of Computer Science from the University of Waterloo, 
+where I closely worked with Prof. [Semih Salihoglu](https://cs.uwaterloo.ca/~ssalihog/) and 
+Prof. [Xi He](https://cs.uwaterloo.ca/~xihe/).
 
 
 Site-wide configuration
@@ -24,13 +27,6 @@ For site content, there is one markdown file for each type of content, which are
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
