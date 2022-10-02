@@ -17,7 +17,7 @@ Prof. [Xi He](https://cs.uwaterloo.ca/~xihe/).
 
 Publications
 ------
-[Data Station: Delegated, Trustworthy, and Auditable Computation to Enable Data-Sharing Consortia with a Data Escrow](https://stevenxia.netlify.app/) *VLDB 2022*  
+[Data Station: Delegated, Trustworthy, and Auditable Computation to Enable Data-Sharing Consortia with a Data Escrow](https://www.vldb.org/pvldb/vol15/p3172-xia.pdf) *VLDB 2022*  
 **Steven Xia**, Zhiru Zhu, Chris Zhu, Jinjin Zhao, Kyle Chard, Aaron J. Elmore, Ian Foster, Michael
 Franklin, Sanjay Krishnan, Raul Castro Fernandez
 
