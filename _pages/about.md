@@ -14,7 +14,6 @@ UChicago, I got my Bachelors of Computer Science from the University of Waterloo
 where I closely worked with Prof. [Semih Salihoğlu](https://cs.uwaterloo.ca/~ssalihog/) and 
 Prof. [Xi He](https://cs.uwaterloo.ca/~xihe/).
 
-hi
 
 Publications
 ------
