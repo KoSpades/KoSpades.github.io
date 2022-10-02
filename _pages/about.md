@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Steven Xia! I am a second CS PhD student at the University of Chicago,
+Hi, this is Steven Xia! I am a second yaer CS PhD student at the University of Chicago,
 advised by Prof. [Raul Castro Fernandez](https://raulcastrofernandez.com/). Before coming to
 UChicago, I got my Bachelors of Computer Science from the University of Waterloo, 
 where I closely worked with Prof. [Semih Salihoğlu](https://cs.uwaterloo.ca/~ssalihog/) and 
