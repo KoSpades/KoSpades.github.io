@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Steven Xia's Homepage5"
+title: "Steven Xia's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
