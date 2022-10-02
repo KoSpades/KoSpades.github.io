@@ -14,8 +14,6 @@ UChicago, I got my Bachelors of Computer Science from the University of Waterloo
 where I closely worked with Prof. [Semih Salihoğlu](https://cs.uwaterloo.ca/~ssalihog/) and 
 Prof. [Xi He](https://cs.uwaterloo.ca/~xihe/).
 
-hi
-
 Publications
 ------
 [Data Station: Delegated, Trustworthy, and Auditable Computation to Enable Data-Sharing Consortia with a Data Escrow](https://www.vldb.org/pvldb/vol15/p3172-xia.pdf) *VLDB 2022*  
