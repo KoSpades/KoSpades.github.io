@@ -45,7 +45,7 @@
   }
 
   img {
-    width: 200%;
+    width: 300%;
   }
 }
 
@@ -72,8 +72,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 150px;
-  height: 150px;
+  width: 300px;
+  height: 300px;
 
   @include breakpoint($large) {
     display: block;
@@ -82,8 +82,8 @@
   }
 
   img {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
 
     @include breakpoint($large) {
       padding: 5px;
