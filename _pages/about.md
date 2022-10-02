@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Steven Xia's Homepage"
+title: "Steven Xia's Homepage2"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,8 +13,6 @@ advised by Prof. [Raul Castro Fernandez](https://raulcastrofernandez.com/). Befo
 UChicago, I got my Bachelors of Computer Science from the University of Waterloo, 
 where I closely worked with Prof. [Semih Salihoğlu](https://cs.uwaterloo.ca/~ssalihog/) and 
 Prof. [Xi He](https://cs.uwaterloo.ca/~xihe/).
-
-hellotest
 
 Publications
 ------
